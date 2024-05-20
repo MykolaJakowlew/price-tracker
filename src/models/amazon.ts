@@ -1,0 +1,1 @@
+export interface ParserResult { title: string, price: { value: number, currency?: string } }
